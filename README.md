@@ -1,0 +1,2 @@
+# Google-Search-Analysis
+Google Search Analysis with Python - Approximately 3.5 billion searches are performed on Google daily, which means that approximately 40,000 searches are performed every second on Google. So Google search is a great use case for analyzing data based on search queries.
